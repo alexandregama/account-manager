@@ -1,4 +1,4 @@
-package br.com.casadocodigo.loja;
+package br.com.casadocodigo.loja.account;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
